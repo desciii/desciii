@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Angelo Panungcat
+# 👋 Hey, I'm @desciii
 
 Aspiring full-stack dev from the Philippines 🇵🇭  
 Currently building **my portfolio** — focused on clean code and functional UI.
