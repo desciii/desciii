@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Angelo Panungcat
 
 Aspiring full-stack dev from the Philippines 🇵🇭  
-Currently building **Code Board** and **BPM (Bogey Password Manager)** — focused on clean code and functional UI.
+Currently building **my portfolio** — focused on clean code and functional UI.
 
 ---
 
