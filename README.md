@@ -12,8 +12,3 @@ Aspiring full-stack dev from the Philippines
 - Tools: NetBeans, VS Code, XAMPP, Git
 
 ---
-
-### 🧠 Current Focus
-- Mastering backend logic with PHP & MySQL  
-- Building smooth desktop UI with Java Swing  
-- Learning to write cleaner, reusable code
