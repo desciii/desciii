@@ -1,7 +1,9 @@
 # 👋 Hey, I'm @desciii
 
-Aspiring full-stack dev from the Philippines 🇵🇭  
+Aspiring full-stack dev from the Philippines  
 Currently building **my portfolio** — focused on clean code and functional UI.
+
+🔗 **Live Portfolio:** [https://desciii.github.io/myportoflio/](https://desciii.github.io/myportoflio/)
 
 ---
 
@@ -16,5 +18,3 @@ Currently building **my portfolio** — focused on clean code and functional UI.
 - Mastering backend logic with PHP & MySQL  
 - Building smooth desktop UI with Java Swing  
 - Learning to write cleaner, reusable code
-
----
