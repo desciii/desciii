@@ -7,8 +7,8 @@ Aspiring full-stack dev from the Philippines
 ---
 
 ### Tech Stack
-- Frontend: HTML, CSS, JavaScript  
-- Backend: PHP, Java (Swing), MySQL  
-- Tools: NetBeans, VS Code, XAMPP, Git
+- Frontend: HTML, CSS, JavaScript, React JS
+- Backend: PHP, Java (Swing), MySQL, Laravel, R, Python
+- Tools: NetBeans, VS Code, XAMPP, Git, Herd, Positron
 
 ---
